@@ -7,15 +7,12 @@ Welcome to the LSTM-based Music Genre Classification project! This repository co
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
   - [Data Preprocessing](#data-preprocessing)
   - [Model Training](#model-training)
   - [Evaluation](#evaluation)
   - [Real-time Inference](#real-time-inference)
 - [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
@@ -44,19 +41,6 @@ Ensure you have the following installed:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-
-### Installation
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/music-genre-classification.git
-    cd music-genre-classification
-    ```
-
-2. Install the required libraries:
-    ```sh
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
@@ -113,14 +97,6 @@ Ensure you have the following installed:
 ## Results
 
 The LSTM-based model demonstrates high accuracy in classifying music tracks into their respective genres. Detailed evaluation metrics including accuracy, precision, recall, and F1-score indicate the model's robustness and reliability. The plots of training and validation accuracy/loss over epochs provide insights into the model's performance and convergence.
-
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for details on how to get started.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
